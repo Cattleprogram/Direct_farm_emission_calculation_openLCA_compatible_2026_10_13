@@ -1,31 +1,25 @@
-Licence of the data in this folder
-==================================
+MIT License
 
-The MIT licence of the repository covers only the source code. The data in this
-folder are published under the following terms.
+Copyright (c) 2026 Johannes Zeidler
 
-1. Farm data of the example farms 2 and 8
-   (tables tbl_2 to tbl_7 and Katalog_Betriebe in 2026_10_13_Alle_Daten_Example.accdb)
+This license applies to the source code in this repository (all *.py files and
+the documentation). It does NOT apply to the files in the data/ folder; see
+data/LICENSE for the terms of the data.
 
-   Copyright (c) 2026 Johannes Zeidler
-   Licensed under the Creative Commons Attribution 4.0 International licence
-   (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-   When you use these data, cite them as given in data/README.md.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. Third-party data (NOT covered by CC BY 4.0 or MIT; the rights stay with the
-   publishers). Reproduced with permission for the reproduction of the calculations
-   in this repository. Any further use needs the permission of the publisher.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-   - Parameterdatei_2024-12_Export.xlsx
-     (c) Kuratorium für Technik und Bauwesen in der Landwirtschaft e.V. (KTBL)
-   - Feed composition values in Katalog_Futtermittelgehalte_KTBL and
-     Katalog_FlowPropertyDefault of the example database (see the columns
-     "Literatur" and "DefaultValueQuelle" for the source of every value):
-       (c) KTBL (Faustzahlen für die Landwirtschaft, 2018)
-       (c) Bayerische Landesanstalt für Landwirtschaft (LfL) (Gruber Tabelle, 2024;
-           Deckungsbeiträge und Kalkulationsdaten)
-
-   Full citations: data/README.md.
-
-3. Flow names in Katalog_Flow follow the nomenclature of ecoinvent and Agribalyse.
-   No ecoinvent or Agribalyse datasets are included.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
