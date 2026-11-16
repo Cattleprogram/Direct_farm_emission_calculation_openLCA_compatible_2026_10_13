@@ -240,7 +240,7 @@ in [data/README.md](data/README.md).
   Landwirtschaft (KTBL).
 - Arbeitsgruppe BEK (2024): Berechnungsstandard für einzelbetriebliche Klimabilanzen (BEK) in
   der Landwirtschaft. Berechnungsparameter für einzelbetriebliche Klimabilanzen. Darmstadt:
-  KTBL. https://daten.ktbl.de/bek/ (accessed 13.10.2026)
+  KTBL. https://daten.ktbl.de/bek/ (accessed 18.12.2024)
 - Arbeitsgruppe BEK (2026): Methodenbeschreibung Sachbilanz Tierhaltung der BEK-Fachgruppen. Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V. Handbuch, Darmstadt
 - Bachinger, J., Klöble, U. (Eds.) (2019): Faustzahlen für den Ökologischen Landbau,
   2. Auflage. Darmstadt: KTBL.
