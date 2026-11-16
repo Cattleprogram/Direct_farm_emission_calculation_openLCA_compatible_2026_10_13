@@ -24,7 +24,7 @@ Files written by `run_all.py` (`*_EmissionenBerechnet*.accdb`) are not part of t
 - Arbeitsgruppe BEK (2024): Berechnungsstandard für einzelbetriebliche Klimabilanzen (BEK) in
   der Landwirtschaft. Berechnungsparameter für einzelbetriebliche Klimabilanzen. Darmstadt:
   Kuratorium für Technik und Bauwesen in der Landwirtschaft (KTBL).
-  https://daten.ktbl.de/bek/ (accessed 13.10.2026). → `Parameterdatei_2024-12_Export.xlsx`
+  https://daten.ktbl.de/bek/ (accessed 18.12.2024). → `Parameterdatei_2024-12_Export.xlsx`
 - Achilles, W., Anter, J., Belau, T., Blankenburg, J. et al. (2018): Faustzahlen für die
   Landwirtschaft, 15. Auflage. Darmstadt: KTBL. → feed values, pages are given per value in
   the column `Literatur` / `DefaultValueQuelle`
